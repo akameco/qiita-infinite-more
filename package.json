@@ -1,0 +1,31 @@
+{
+  "name": "qiita-infinite-more",
+  "version": "0.0.0",
+  "description": "My neat module",
+  "license": "MIT",
+  "repository": "akameco/qiita-infinite-more",
+  "author": {
+    "name": "akameco",
+    "email": "akameco.t@gmail.com",
+    "url": "akameco.github.io"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "xo": "^0.15.0"
+  },
+  "xo": {
+    "envs": [
+      "browser"
+    ],
+    "esnext": true
+  }
+}

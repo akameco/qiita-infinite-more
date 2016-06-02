@@ -1,0 +1,21 @@
+{
+	"name": "qiita-infinite-more",
+	"version": "0.0.1",
+	"manifest_version": 2,
+	"description": "Qiitaのフィードにオートリロードを追加",
+	"minimum_chrome_version": "49",
+	"permissions": [
+		"http://qiita.com/*"
+	],
+	"content_scripts": [
+		{
+			"run_at": "document_start",
+			"matches": [
+				"http://qiita.com/*"
+			],
+			"js": [
+				"content.js"
+			]
+		}
+	]
+}
