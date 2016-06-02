@@ -1,6 +1,6 @@
 # qiita-infinite-more
 
-> Qiitaのフィードにオートリロードを追加するchrome extensions
+> Qiitaのフィードに無限スクロールを追加するchrome extensions
 
 ## Download
 
