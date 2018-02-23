@@ -1,5 +1,7 @@
 # qiita-infinite-more
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/qiita-infinite-more.svg)](https://greenkeeper.io/)
+
 > Qiitaのフィードに無限スクロールを追加するchrome extensions
 
 ## Download
